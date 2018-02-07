@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PacifistAntiCommandTab:jar">
+    <output-path>$USER_HOME$/Desktop/MCServers/projectClockRPG/Dev/plugins</output-path>
+    <root id="archive" name="PacifistAntiCommandTab.jar">
+      <element id="module-output" name="PacifistAntiCommandTab" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+name: PacifistAntiCommandTab
+version: ${project.version}
+main: pacifistgroup.anticommandtab.Anticommandtab
+authors: [libraryaddict, sgtcaze]
+depend: [ProtocolLib]
+commands:
+   pact:
+      description: Reload the config.
+
+

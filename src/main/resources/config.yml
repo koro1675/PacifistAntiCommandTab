@@ -1,0 +1,22 @@
+
+# コマンド保護の設定
+BlockPlugins: true
+BlockVersion: true
+BlockAbout: true
+BlockQuestionMark: true
+BlockHelp: true
+
+# /plコマンド使用時に出すメッセージ
+Plugins: '&cYou do not have permission.'
+
+# /?コマンド使用時に出すメッセージ
+QuestionMark: '&cYou do not have permission.'
+
+# /aboutコマンド使用時に出すメッセージ
+About: '&cYou do not have permission.'
+
+# /verコマンド使用時に出すメッセージ
+Version: '&cYou do not have permission.'
+
+# /helpコマンド使用時に出すメッセージ
+Help: '&cYou do not have permission.'
